@@ -61,5 +61,5 @@ The dataset (`customer_support_tickets.csv`) should include (but is not limited 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/customer-support-analysis.git
+   https://github.com/ThirupathiS-45/Customer_Support_Ticket_Analysis.git
    cd customer-support-analysis
