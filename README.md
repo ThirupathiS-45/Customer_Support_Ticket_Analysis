@@ -10,14 +10,6 @@ A comprehensive data analysis project to explore, visualize, and generate insigh
 - [Technologies Used](#technologies-used)  
 - [Dataset](#dataset)  
 - [Setup and Installation](#setup-and-installation)  
-- [Usage](#usage)  
-- [Analysis Highlights](#analysis-highlights)  
-- [Key Insights & Recommendations](#key-insights--recommendations)  
-- [Outputs](#outputs)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Contact](#contact)  
-
 ---
 
 ## Project Overview
